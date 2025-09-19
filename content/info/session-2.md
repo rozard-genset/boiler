@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "Gallery Digital"
+title: "Pengenalan teknologi web"
 weight: 2
 parted:
     name: ""
@@ -21,6 +21,6 @@ assign:
 metadata:
     index: false
     thumb: "cover.jpg"
-    author: []
+    author: [ "Al Muhdil Karim" ]
 description: "Memahami konsep dan prinsip dasar perpustakaan digital."
 ---

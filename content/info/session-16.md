@@ -1,8 +1,9 @@
 ---
 date:  ""
 draft: false
-title: "Persiapan Pembelajaran"
-weight: 1
+title: "Ujian Akhir"
+quota: 38
+weight: 5
 parted:
     name: ""
     goal: "Parted 1"
@@ -10,7 +11,7 @@ parted:
     icon: ""
 tasker:
     name: ""
-    goal: "Tasker 1"
+    goal: "Parted 1"
     desc: "Mencari konsep dan prinsip dasar perpustakaan digital."
     icon: ""
 assign:

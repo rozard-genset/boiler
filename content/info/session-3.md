@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "Session 3"
+title: "Pengenalan HTML"
 weight: 3
 parted:
     name: ""
@@ -21,6 +21,6 @@ assign:
 metadata:
     index: false
     thumb: "cover.jpg"
-    author: []
+    author: [ "Al Muhdil Karim" ]
 description: "Memahami konsep dan prinsip dasar perpustakaan digital."
 ---

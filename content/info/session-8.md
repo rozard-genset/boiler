@@ -1,8 +1,8 @@
 ---
 date:  ""
 draft: false
-title: "Persiapan Pembelajaran"
-weight: 1
+title: "semantik html"
+weight: 4
 parted:
     name: ""
     goal: "Parted 1"
@@ -10,7 +10,7 @@ parted:
     icon: ""
 tasker:
     name: ""
-    goal: "Tasker 1"
+    goal: "Parted 1"
     desc: "Mencari konsep dan prinsip dasar perpustakaan digital."
     icon: ""
 assign:
@@ -24,3 +24,6 @@ metadata:
     author: [ "Al Muhdil Karim" ]
 description: "Memahami konsep dan prinsip dasar perpustakaan digital."
 ---
+
+
+- 

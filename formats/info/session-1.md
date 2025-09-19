@@ -1,7 +1,7 @@
 ---
 date:  ""
 draft: false
-title: "Persiapan Pembelajaran"
+title: "Museum Digital"
 weight: 1
 parted:
     name: ""
@@ -21,6 +21,6 @@ assign:
 metadata:
     index: false
     thumb: "cover.jpg"
-    author: [ "Al Muhdil Karim" ]
+    author: []
 description: "Memahami konsep dan prinsip dasar perpustakaan digital."
 ---

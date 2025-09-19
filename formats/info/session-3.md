@@ -1,8 +1,8 @@
 ---
 date:  ""
 draft: false
-title: "Persiapan Pembelajaran"
-weight: 1
+title: "Session 3"
+weight: 3
 parted:
     name: ""
     goal: "Parted 1"
@@ -10,7 +10,7 @@ parted:
     icon: ""
 tasker:
     name: ""
-    goal: "Tasker 1"
+    goal: "Parted 1"
     desc: "Mencari konsep dan prinsip dasar perpustakaan digital."
     icon: ""
 assign:
@@ -21,6 +21,6 @@ assign:
 metadata:
     index: false
     thumb: "cover.jpg"
-    author: [ "Al Muhdil Karim" ]
+    author: []
 description: "Memahami konsep dan prinsip dasar perpustakaan digital."
 ---
